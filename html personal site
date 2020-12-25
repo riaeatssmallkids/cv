@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>🌻Shukria's Personal Site</title>
+  </head>
+<img src="https://wallpapercave.com/wp/wp4291854.jpg" alt="cute sunflowers">
+  <body>
+  <h1>Shukria Koffi</h1>
+<p><strong>14 but relevant<em> :) </p>
+<p>i am a homeschooled girl, 14. i love socializing and making friends!
+i'm referred to so many names, so you can call me 'ria', 'shukria', 'shuks' or whatever you want :)</p>
+<hr>
+<h3> Education</h3>
+<p>as a child, i've been to many schools. but i first started off as my parents teaching me at home. then, at around the age of
+6/7, i went to a local school called 'Lionel Primary School' and finished there in year 6 when i was 11. then it was
+time for me to go to highschool, so i went to another local school called 'Brentford School for Girls' which wasn't a good school. :/
+</p>
+<ul>
+  <h3>work experience</h3>
+  <p>blahblahblah!</p>
+  <li> Homeschooled - 6/7</li>
+<li> Lionel Primary School - 7-11</li>
+<li> Brentford School for Girls - 11-12</li>
+<li> Homeschooled - 13-14 (now)</li>
+</ul>
+<h3> Hobbies </h3>
+<ol>
+  <li>Gaming</li>
+  <li>Going on drives</li>
+  <li>Watching the sunset</li>
+  <li>Shopping</li>
+  <li>Travelling</li>
+  <li>Cars</li>
+</ol>
+  </body>
+</html>
